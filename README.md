@@ -2,7 +2,7 @@
 
 A responsive, macOS-inspired portfolio with a dark glass desktop, six emoji work folders, a featured-work slideshow, and a four-app dock. Built with HTML, CSS, and JavaScript. No build step or dependencies.
 
-## Preview
+## Preview 
 
 Run a static web server from this folder, for example `python3 -m http.server 3000`, and open http://localhost:3000.
 
