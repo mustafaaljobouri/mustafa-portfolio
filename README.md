@@ -6,7 +6,7 @@ A responsive, macOS-inspired portfolio with a dark glass desktop, six emoji work
 
 Run a static web server from this folder, for example `python3 -m http.server 3000`, and open http://localhost:3000.
 
-## Current scope
+## Current scope 
 
 - One bold name-and-title line and a medium-weight description, aligned beside the portrait placeholder.
 - Screen-fitting layout without page scrolling, including compact mobile layouts.
